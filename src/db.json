@@ -4,3 +4,21 @@
     { "id": 2, "nome": "Carlos", "idade": 30 }
   ]
 }
+
+
+
+
+
+
+//semana 9 
+
+{
+  "usuarios": [
+    { "id": 1, "nome": "Ana", "idade": 22 },
+    { "id": 2, "nome": "Carlos", "idade": 30 }
+  ],
+  "produtos": [
+    { "id": 1, "nome": "Notebook", "preco": 3500.00, "estoque": 5 },
+    { "id": 2, "nome": "Mouse", "preco": 80.00, "estoque": 20 }
+  ]
+}
